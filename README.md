@@ -18,3 +18,10 @@ Given an array, the calculator turns it into a NumPy matrix, then returns the fo
 ```
 
 This calculator provides comprehensive statistical information about the input array, including mean, variance, standard deviation, maximum value, minimum value, and sum along different axes and flattened.
+
+## Technologies Used
+
+-   **Numpy**: For calculations.
+-   **unittest**: For running unit tests.
+
+Ensure that you run `pip install -r requirements.txt` before executing `python main.py`.
